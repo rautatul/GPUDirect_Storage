@@ -1,8 +1,6 @@
 /***
     GPUDirect Storage App
-	Author - Atul Raut
-	atul.raut@intel.com
-	Date - 9/19/2024
+    Date - 9/19/2024
 
 */
 #include <stdio.h>
